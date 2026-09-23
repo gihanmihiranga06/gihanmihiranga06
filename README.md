@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...                                           
 
-
 <h1 align="center">Hi 👋, I'm GihanZ</h1>
 
 
@@ -65,5 +64,6 @@ Here are some ideas to get you started:
 [ANii693](https://github.com/ANii693)
 
 Last Edited on: 28/02/2023
+
 
 
